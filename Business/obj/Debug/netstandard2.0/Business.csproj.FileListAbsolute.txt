@@ -1,0 +1,5 @@
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\Business\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs

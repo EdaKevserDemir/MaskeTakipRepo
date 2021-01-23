@@ -1,0 +1,9 @@
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\Entities\obj\Debug\netstandard2.0\Entities.pdb

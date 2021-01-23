@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkAround", "WorkAround\WorkAround.csproj", "{EF9EEE0B-3D15-4EA9-B645-900F988A01F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{F844E6E9-535B-48AE-8B55-51B03E5FB418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{97F18467-48E6-418A-AAC5-84CF0927E5DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF9EEE0B-3D15-4EA9-B645-900F988A01F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9EEE0B-3D15-4EA9-B645-900F988A01F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9EEE0B-3D15-4EA9-B645-900F988A01F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9EEE0B-3D15-4EA9-B645-900F988A01F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F844E6E9-535B-48AE-8B55-51B03E5FB418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F844E6E9-535B-48AE-8B55-51B03E5FB418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F844E6E9-535B-48AE-8B55-51B03E5FB418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F844E6E9-535B-48AE-8B55-51B03E5FB418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97F18467-48E6-418A-AAC5-84CF0927E5DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F18467-48E6-418A-AAC5-84CF0927E5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F18467-48E6-418A-AAC5-84CF0927E5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F18467-48E6-418A-AAC5-84CF0927E5DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C0024F4-F7F1-45F2-9510-B16C2FB18D3D}
+	EndGlobalSection
+EndGlobal

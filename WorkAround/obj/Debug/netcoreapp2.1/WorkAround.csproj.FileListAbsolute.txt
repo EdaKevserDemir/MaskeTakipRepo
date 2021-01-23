@@ -1,0 +1,11 @@
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\WorkAround\bin\Debug\netcoreapp2.1\WorkAround.deps.json
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\WorkAround\bin\Debug\netcoreapp2.1\WorkAround.runtimeconfig.json
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\WorkAround\bin\Debug\netcoreapp2.1\WorkAround.runtimeconfig.dev.json
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\WorkAround\bin\Debug\netcoreapp2.1\WorkAround.dll
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\WorkAround\bin\Debug\netcoreapp2.1\WorkAround.pdb
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\WorkAround\obj\Debug\netcoreapp2.1\WorkAround.csprojAssemblyReference.cache
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\WorkAround\obj\Debug\netcoreapp2.1\WorkAround.csproj.CoreCompileInputs.cache
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\WorkAround\obj\Debug\netcoreapp2.1\WorkAround.AssemblyInfoInputs.cache
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\WorkAround\obj\Debug\netcoreapp2.1\WorkAround.AssemblyInfo.cs
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\WorkAround\obj\Debug\netcoreapp2.1\WorkAround.dll
+C:\Users\EKD\Documents\Visual Studio 2017\Projects\MaskeTakip\WorkAround\obj\Debug\netcoreapp2.1\WorkAround.pdb
